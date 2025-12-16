@@ -7,8 +7,6 @@
     "FIntTerrainArraySliceSize": "32",
     "FFlagDisablePostFx": "False",
     "DFFlagDebugPauseVoxelizer": "False",
-    "FFlagNewLightAttenuation": "True",
-    "FFlagFastGPULightCulling3": "True",
     "DFFlagTextureQualityOverrideEnabled": "True",
     "DFIntTextureQualityOverride": "3",
     "FIntDebugForceMSAASamples": "4",
@@ -21,6 +19,5 @@
     "FFlagVisBugChecksThreadYield": "True",
     "FIntEnableVisBugChecksHundredthPercent27": "100",
     "FFlagCommitToGraphicsQualityFix": "True",
-    "FFlagFixGraphicsQuality": "True",
-    "FFlagDebugForceFSMCPULightCulling": "True"
+    "FFlagFixGraphicsQuality": "True"
 }
