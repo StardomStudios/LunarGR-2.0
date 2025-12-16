@@ -1,0 +1,23 @@
+{
+    "DFIntDebugFRMQualityLevelOverride": 21,
+    "DFFlagDisableDPIScale": true,
+    "FFlagDebugForceFutureIsBrightPhase3": true,
+    "FFlagDebugGraphicsDisableDirect3D11": true,
+    "FFlagDebugGraphicsPreferVulkan": true,
+    "FIntTerrainArraySliceSize": 32,
+    "FIntRenderShadowIntensity": 32,
+    "FFlagDisablePostFx": false,
+    "DFFlagDebugPauseVoxelizer": false,
+    "FFlagNewLightAttenuation": true,
+    "FFlagFastGPULightCulling3": true,
+    "DFFlagTextureQualityOverrideEnabled": true,
+    "DFIntTextureQualityOverride": 3,
+    "FIntDebugForceMSAASamples": 4,
+    "FFlagHandleAltEnterFullscreenManually": false,
+    "FFlagDebugGraphicsDisableVulkan": false,
+    "FFlagDebugGraphicsDisableVulkan11": false,
+    "FFlagDebugVulkanDisablePreRotate": false,
+    "FFlagGraphicsVulkanBonusMemory": true,
+    "FFlagRenderEnableGlobalInstancingVulkan": true,
+    "FFlagShaderLightingRefactor": true
+}
