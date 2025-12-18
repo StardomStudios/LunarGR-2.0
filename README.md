@@ -1,3 +1,5 @@
+![LunarGR](https://github.com/StardomStudios/LunarGR-3.0Beta/blob/ae40f1c4cb1e485901ce0f5c467fafbaad7b63bc/LunarGR-Logo.png)
+
 A Vulkan-Based High level Graphics renderer for Roblox.
 
 This graphics renderer is made for developers who want realistic but vibrant lighting for their games.
